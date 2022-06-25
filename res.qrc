@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Songs/1/bg.jpg</file>
+        <file>Songs/1/2.osu</file>
+        <file>Songs/1/3.osu</file>
+        <file>Songs/1/1.osu</file>
+        <file>Songs/1/song.mp3</file>
+        <file>Songs/2/song.mp3</file>
+        <file>Songs/2/1.osu</file>
+        <file>Songs/2/4.osu</file>
+        <file>Songs/2/2.osu</file>
+        <file>Songs/2/3.osu</file>
+        <file>Songs/2/BG.jpg</file>
+        <file>Skin/mania-hit0.png</file>
+        <file>Skin/mania-hit100.png</file>
+        <file>Skin/mania-hit200.png</file>
+        <file>Skin/mania-hit300.png</file>
+        <file>Skin/mania-hit300g.png</file>
+        <file>Skin/mania-hit50.png</file>
+        <file>Skin/mania-noteS.png</file>
+        <file>Skin/mania-note1.png</file>
+        <file>Skin/mania-note2.png</file>
+    </qresource>
+</RCC>
