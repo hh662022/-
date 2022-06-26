@@ -1,0 +1,246 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,TopLeft,"BG.jpg",0,0
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"BG.jpg",320,240
+ L,7863,56
+  C,0,0,306,128,255,255,255,255,255
+ L,37250,32
+  C,0,0,306,128,255,255,255,255,255
+ L,66638,32
+  C,0,0,306,128,255,255,255,255,255
+ L,96026,60
+  C,0,0,306,128,255,255,255,255,255
+ S,0,7863,,0.8596128
+ F,0,7863,10311,1
+ P,0,7863,120516,A
+ F,0,25005,27454,1
+ F,0,27454,27473,1,0
+ F,0,32352,37250,0,1
+ F,0,47046,,1,0
+ F,0,56842,65567,1
+ F,0,65586,,0
+ F,0,65873,66619,1,0
+ F,0,66619,66638,0,1
+ F,0,81332,86230,1
+ F,0,86249,,0
+ F,0,91128,96026,1
+ F,0,114393,120087,1
+ F,0,120087,120516,1,0
+Sprite,Foreground,Centre,"SB/I.png",50,240
+ F,0,6485,6791,1,0
+ F,0,7250,,1
+ F,0,7250,7863,1,0
+Sprite,Foreground,Centre,"SB/Can.png",240,240
+ F,0,6791,7097,1,0
+ F,0,7250,7863,1,0
+Sprite,Foreground,Centre,"SB/Feel.png",520,240
+ F,0,7250,7863,1,0
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,7250,7863,0,1
+ F,0,7863,8475,1,0
+ P,0,7863,8475,A
+Sprite,Foreground,Centre,"SB/Light-Circle.png",320,240
+ F,0,7863,25005,1
+ S,0,7863,25005,2
+ R,0,7863,25005,0,45
+ P,0,7863,25005,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,17658,18271,1,0
+ P,0,17658,18271,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,22556,23169,1,0
+ P,0,22556,23169,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,23781,24393,1,0
+ P,0,23781,24393,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,25005,25311,1,0
+ P,0,25005,25311,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,25465,25771,1,0
+ P,0,25465,25771,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,25924,26000,1,0
+ P,0,25924,26000,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,26077,26153,1,0
+ P,0,26077,26153,A
+Sprite,Foreground,Centre,"SB/Light-Bright.png",320,240
+ S,0,27454,27607,0,20
+ P,0,27454,31893,A
+ S,0,27607,31128,20,5
+ S,0,31128,31893,5,0
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,27454,28679,1,0
+ P,0,27454,28679,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,31893,32199,1,0
+ P,0,31893,32199,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,32199,32352,1,0
+ P,0,32199,32352,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ L,0,12
+  F,0,32352,32658,1,0
+ P,0,32352,32658,A
+Sprite,Foreground,Centre,"SB/White flash.png",320,240
+ F,0,32352,36026,0.8
+ P,0,32352,36026,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,36026,36638,1,0
+ P,0,36026,36638,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,37250,37556,1,0
+ P,0,37250,37556,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,42148,42454,1,0
+ P,0,42148,42454,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ P,0,43373,43670,A
+ F,0,43373,43679,1,0
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,44597,44903,1,0
+ P,0,44597,44903,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,45209,45516,1,0
+ P,0,45209,45516,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,45822,46128,1,0
+ P,0,45822,46128,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,46434,47046,0,1
+ P,0,46434,47658,A
+ F,0,47046,47658,1,0
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,61740,62046,1,0
+ P,0,61740,62046,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,62965,63271,1,0
+ P,0,62965,63271,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,64189,64495,1,0
+ P,0,64189,64495,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,76434,76740,1,0
+ P,0,76434,76740,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,86230,86536,1,0
+ P,0,86230,86536,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,91128,91434,1,0
+ P,0,91128,91434,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,96026,96332,1,0
+ P,0,96026,96332,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,115618,116230,1,0
+ P,0,115618,116230,A
+Sprite,Foreground,Centre,"SB/Light-Circle.png",320,240
+ R,0,36026,36638,0,90
+ S,0,36026,45822,2
+ F,0,36026,47046,1
+ P,0,36026,47046,A
+ P,0,36026,47046,A
+ R,0,36638,37250,0,180
+ R,0,37250,42148,0,30
+ R,0,42148,43373,0,45
+ R,0,43373,44597,0,60
+ R,0,44597,45209,0,75
+ R,0,45209,45822,0,90
+ S,2,45822,47046,2,5
+ R,0,45822,47046,0,135
+ M,0,46037,,319,240
+Sprite,Foreground,Centre,"SB/Light-Bright.png",320,240
+ S,2,47046,56842,0,5
+ P,0,47046,57148,A
+ F,0,56842,57148,1,0
+ S,0,56842,57148,5,40
+Sprite,Foreground,Centre,"SB/Light-Bright.png",320,240
+ F,0,65567,65873,1
+ S,0,65567,65873,1
+ R,0,65567,65873,270
+ P,0,65567,66026,A
+ F,0,65873,66026,1,0
+ S,0,65873,66026,1,40
+Sprite,Foreground,Centre,"SB/White flash.png",320,240
+ F,0,65873,86230,0.8
+ P,0,65873,86230,A
+Sprite,Foreground,Centre,"SB/Light-Bright.png",320,240
+ L,0,48
+  F,0,66638,66944,1,0
+  S,0,66638,66944,1,5
+  R,0,66638,66944,0,30
+ L,0,16
+  F,0,81332,81638,1,0
+  S,0,81332,81638,1,5
+  R,0,81332,81638,0,90
+ P,0,66638,86230,A
+Sprite,Foreground,Centre,"SB/Light-Bright.png",320,240
+ F,0,86230,90669,1
+ S,0,86230,90669,0,8
+ P,0,86230,90882,A
+ F,0,90669,90882,1,0
+ S,0,90669,90882,8,40
+Sprite,Foreground,Centre,"SB/White flash.png",320,240
+ F,0,90745,96026,0.8
+ P,0,90745,96026,A
+Sprite,Foreground,Centre,"SB/Light-Circle.png",320,240
+ S,0,91128,96026,2
+ R,0,91128,96026,0,270
+ F,0,91128,105618,1
+ P,0,91128,115618,A
+ R,0,96026,110720,0,60
+ R,0,110720,113169,0,90
+ R,0,113169,114393,0,180
+ S,2,114393,115618,2,5
+ R,0,114393,115618,0,360
+Sprite,Foreground,Centre,"SB/Map detail-Creator.png",300,100
+ F,0,115618,115771,0,1
+ S,0,115618,117914,0.8
+ P,0,115618,119291,A
+ F,0,115771,119138,1
+ F,0,119138,119291,1,0
+Sprite,Foreground,Centre,"SB/Map detail-GDer.png",320,180
+ F,0,115618,115771,0,1
+ S,0,115618,117914,0.8
+ P,0,115618,119291,A
+ F,0,115771,119138,1
+ F,0,119138,119291,1,0
+Sprite,Foreground,Centre,"SB/SDVX II logo.png",480,300
+ F,0,118067,118220,0,1
+ S,0,118067,119291,0.6
+ P,0,118067,119291,A
+ F,0,118220,119138,1
+ F,0,119138,119291,1,0
+Sprite,Foreground,Centre,"SB/Light-Bright.png",320,240
+ V,1,822,1128,0.1,0.1,0.1,1.652516
+ P,0,822,6026,A
+ F,0,1128,,1
+ R,0,1128,,-1.073549
+ V,0,1128,5873,0.1,1.652516,5,1.652516
+ F,0,5873,6026,1,0
+ V,1,5873,6026,5,1.652516,0.1,0.1
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,26383,26459,1,0
+ P,0,26383,26459,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,26536,26612,1,0
+ P,0,26536,26612,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,26689,26765,1,0
+ P,0,26689,26765,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,26995,27071,1,0
+ P,0,26995,27071,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,27148,27224,1,0
+ P,0,27148,27224,A
+Sprite,Foreground,Centre,"SB/White.png",320,240
+ F,0,66638,67251,1,0
+ P,0,66638,67251,A
+//Storyboard Sound Samples
+Sample,118067,3,"SB/SFX.wav",75

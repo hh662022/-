@@ -1,11 +1,16 @@
-#include "mainwindow.h"
-
 #include <QApplication>
+#include <QGraphicsScene>
+#include <QGraphicsItem>
+#include <QGraphicsView>
+#include "game.h"
+#include "ui_form.h"
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    MainWindow w;
-    w.show();
-    return a.exec();
+
+    Game * game = new Game();
+
+    int ret = a.exec();
+    return ret;
 }
